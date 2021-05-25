@@ -17,7 +17,7 @@ Currently a student at [Epitech](https://github.com/epitech/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajnart&show_icons=true&theme=dracula&locale=en&layout=compact&hide=html" alt="ajnart" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajnart&show_icons=true&theme=dracula&locale=en" alt="ajnart" /></p>
 
-[![ajnart's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ajnart)](https://github.com/anuraghazra/github-readme-stats)
+[![ajnart's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ajnart&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=ajnart&style=flat-square&color=red" alt="ajnart" /></p>
 
