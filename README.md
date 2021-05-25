@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Thomas Camlong</h1>
-<h3 align="center">A passionate FullStack developer from France 🇫🇷</h3>
+# Sup ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Thomas Camlong, I'm a software developer/DevOps engineer from France. Currently student at [Epitech](https://github.com/epitech/).
+
+Contact: [mail](mailto:thomascamlong@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:thomascamlong@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="thomascamlong@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thomas-camlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-camlong" height="30" width="40" /></a>
 <a href="https://instagram.com/thomas.cmlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomas.cmlg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajnart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajnart" height="30" width="40" /></a>
