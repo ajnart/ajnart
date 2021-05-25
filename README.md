@@ -2,10 +2,6 @@
 
 My name is Thomas Camlong, I'm a software developer/DevOps engineer from France. Currently student at [Epitech](https://github.com/epitech/).
 
-Contact: [mail](mailto:thomascamlong@gmail.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:thomascamlong@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="thomascamlong@gmail.com" height="30" width="40" /></a>
@@ -23,3 +19,5 @@ Contact: [mail](mailto:thomascamlong@gmail.com)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajnart&show_icons=true&theme=dracula&locale=en" alt="ajnart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnart&theme=dark" alt="ajnart" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
+
