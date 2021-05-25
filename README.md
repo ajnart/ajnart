@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thomas Camlong</h1>
 <h3 align="center">A passionate FullStack developer from France 🇫🇷</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thomas-camlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="thomas-camlong" height="30" width="40" /></a>
@@ -17,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajnart&show_icons=true&theme=dracula&locale=en" alt="ajnart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnart&theme=dark" alt="ajnart" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
