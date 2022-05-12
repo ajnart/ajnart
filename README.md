@@ -1,6 +1,6 @@
 # Sup ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Thomas Camlong, a fullstack developer / DevOps engineer from France.
+## I'm Thomas Camlong, a fullstack developer from France.
 Currently a student at [Epitech](https://github.com/epitech/)
 
 <h3 align="left">Connect with me:</h3>
