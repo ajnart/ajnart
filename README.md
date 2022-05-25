@@ -17,7 +17,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-### :zap: Recent Activity
+1. 🎉 Merged PR [#153](https://github.com/ajnart/homarr/pull/153) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
