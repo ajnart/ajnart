@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-  # At every 30 minutes (48 times a day)
+    # At every 30 minutes (48 times a day)
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
@@ -17,5 +17,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Updating Recent Git Activity'
           MAX_LINES: 10
