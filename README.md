@@ -2,6 +2,9 @@
 <h3 align="center">A passionate full stack developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3liehrqx15grnsyatl3" alt="trackgit-views" />
+</a>
 
 - 🦞 I’m currently working on [Homarr](https://github.com/ajnart/homarr)
 
@@ -10,11 +13,6 @@
 - 👨‍💻 My Linkedin [https://www.linkedin.com/in/thomas-camlong/](https://www.linkedin.com/in/thomas-camlong/)
 
 - 📫 Reach me at : **ajnart@pm.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thomas-camlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-camlong" height="30" width="40" /></a>
-</p>
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
