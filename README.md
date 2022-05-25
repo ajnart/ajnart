@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnart&label=Profile%20views&color=0e75b6&style=flat" alt="ajnart" /> </p>
 <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3liehrqx15grnsyatl3" alt="trackgit-views" />
+<img style="visibility:hidden" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3liehrqx15grnsyatl3" alt="trackgit-views" />
 </a>
 
 - 🦞 I’m currently working on [Homarr](https://github.com/ajnart/homarr)
