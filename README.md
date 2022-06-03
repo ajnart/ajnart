@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#164](https://github.com/ajnart/homarr/issues/164) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 💪 Opened PR [#168](https://github.com/ajnart/homarr/pull/168) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🎉 Merged PR [#167](https://github.com/ajnart/homarr/pull/167) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 💪 Opened PR [#167](https://github.com/ajnart/homarr/pull/167) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 💪 Opened PR [#14](https://github.com/mantinedev/ui.mantine.dev/pull/14) in [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)
-6. ❗️ Closed issue [#10](https://github.com/ajnart/homarr/issues/10) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 🗣 Commented on [#10](https://github.com/ajnart/homarr/issues/10) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🗣 Commented on [#13](https://github.com/ajnart/homarr/issues/13) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. 🗣 Commented on [#64](https://github.com/ajnart/homarr/issues/64) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. ❗️ Reopened issue [#111](https://github.com/ajnart/homarr/issues/111) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🎉 Merged PR [#171](https://github.com/ajnart/homarr/pull/171) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 💪 Opened PR [#171](https://github.com/ajnart/homarr/pull/171) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🎉 Merged PR [#170](https://github.com/ajnart/homarr/pull/170) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🎉 Merged PR [#169](https://github.com/ajnart/homarr/pull/169) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 💪 Opened PR [#170](https://github.com/ajnart/homarr/pull/170) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🗣 Commented on [#164](https://github.com/ajnart/homarr/issues/164) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 💪 Opened PR [#168](https://github.com/ajnart/homarr/pull/168) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🎉 Merged PR [#167](https://github.com/ajnart/homarr/pull/167) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 💪 Opened PR [#167](https://github.com/ajnart/homarr/pull/167) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 💪 Opened PR [#14](https://github.com/mantinedev/ui.mantine.dev/pull/14) in [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
