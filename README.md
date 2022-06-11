@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/Aimsucks/homarr/issues/1) in [Aimsucks/homarr](https://github.com/Aimsucks/homarr)
+1. 🎉 Merged PR [#188](https://github.com/ajnart/homarr/pull/188) in [ajnart/homarr](https://github.com/ajnart/homarr)
 2. 🗣 Commented on [#1](https://github.com/Aimsucks/homarr/issues/1) in [Aimsucks/homarr](https://github.com/Aimsucks/homarr)
-3. 🗣 Commented on [#192](https://github.com/ajnart/homarr/issues/192) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#1](https://github.com/Aimsucks/homarr/issues/1) in [Aimsucks/homarr](https://github.com/Aimsucks/homarr)
-5. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+3. 🗣 Commented on [#1](https://github.com/Aimsucks/homarr/issues/1) in [Aimsucks/homarr](https://github.com/Aimsucks/homarr)
+4. 🗣 Commented on [#192](https://github.com/ajnart/homarr/issues/192) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#1](https://github.com/Aimsucks/homarr/issues/1) in [Aimsucks/homarr](https://github.com/Aimsucks/homarr)
 6. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 7. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 8. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-9. ❗️ Closed issue [#187](https://github.com/ajnart/homarr/issues/187) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. 🗣 Commented on [#187](https://github.com/ajnart/homarr/issues/187) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 🗣 Commented on [#3052](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3052) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+10. ❗️ Closed issue [#187](https://github.com/ajnart/homarr/issues/187) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
