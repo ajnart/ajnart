@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#284](https://github.com/ajnart/homarr/pull/284) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🎉 Merged PR [#283](https://github.com/ajnart/homarr/pull/283) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#285](https://github.com/ajnart/homarr/issues/285) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. ❗️ Opened issue [#1](https://github.com/killvung/nextjs-express-socketio-typescript-example/issues/1) in [killvung/nextjs-express-socketio-typescript-example](https://github.com/killvung/nextjs-express-socketio-typescript-example)
-5. 🗣 Commented on [#282](https://github.com/ajnart/homarr/issues/282) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. ❗️ Opened issue [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
-7. 🗣 Commented on [#281](https://github.com/ajnart/homarr/issues/281) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🗣 Commented on [#281](https://github.com/ajnart/homarr/issues/281) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. 🗣 Commented on [#76](https://github.com/ajnart/homarr/issues/76) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. ❗️ Closed issue [#278](https://github.com/ajnart/homarr/issues/278) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🎉 Merged PR [#287](https://github.com/ajnart/homarr/pull/287) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#287](https://github.com/ajnart/homarr/issues/287) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🎉 Merged PR [#284](https://github.com/ajnart/homarr/pull/284) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🎉 Merged PR [#283](https://github.com/ajnart/homarr/pull/283) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#285](https://github.com/ajnart/homarr/issues/285) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. ❗️ Opened issue [#1](https://github.com/killvung/nextjs-express-socketio-typescript-example/issues/1) in [killvung/nextjs-express-socketio-typescript-example](https://github.com/killvung/nextjs-express-socketio-typescript-example)
+7. 🗣 Commented on [#282](https://github.com/ajnart/homarr/issues/282) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. ❗️ Opened issue [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
+9. 🗣 Commented on [#281](https://github.com/ajnart/homarr/issues/281) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#281](https://github.com/ajnart/homarr/issues/281) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
