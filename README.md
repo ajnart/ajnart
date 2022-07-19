@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/oddlama/minecraft-server/issues/2) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
-2. ❗️ Opened issue [#2](https://github.com/oddlama/minecraft-server/issues/2) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
-3. 🎉 Merged PR [#287](https://github.com/ajnart/homarr/pull/287) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#287](https://github.com/ajnart/homarr/issues/287) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🎉 Merged PR [#284](https://github.com/ajnart/homarr/pull/284) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🎉 Merged PR [#283](https://github.com/ajnart/homarr/pull/283) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 🗣 Commented on [#285](https://github.com/ajnart/homarr/issues/285) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. ❗️ Opened issue [#1](https://github.com/killvung/nextjs-express-socketio-typescript-example/issues/1) in [killvung/nextjs-express-socketio-typescript-example](https://github.com/killvung/nextjs-express-socketio-typescript-example)
-9. 🗣 Commented on [#282](https://github.com/ajnart/homarr/issues/282) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. ❗️ Opened issue [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
+1. ❗️ Opened issue [#3](https://github.com/oddlama/minecraft-server/issues/3) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
+2. ❗️ Closed issue [#2](https://github.com/oddlama/minecraft-server/issues/2) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
+3. 🗣 Commented on [#2](https://github.com/oddlama/minecraft-server/issues/2) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
+4. 🗣 Commented on [#2](https://github.com/oddlama/minecraft-server/issues/2) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
+5. ❗️ Opened issue [#2](https://github.com/oddlama/minecraft-server/issues/2) in [oddlama/minecraft-server](https://github.com/oddlama/minecraft-server)
+6. 🎉 Merged PR [#287](https://github.com/ajnart/homarr/pull/287) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🗣 Commented on [#287](https://github.com/ajnart/homarr/issues/287) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🎉 Merged PR [#284](https://github.com/ajnart/homarr/pull/284) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 🎉 Merged PR [#283](https://github.com/ajnart/homarr/pull/283) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#285](https://github.com/ajnart/homarr/issues/285) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
