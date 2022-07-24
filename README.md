@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#304](https://github.com/ajnart/homarr/pull/304) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🎉 Merged PR [#303](https://github.com/ajnart/homarr/pull/303) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 💪 Opened PR [#65](https://github.com/scttcper/shared-torrent/pull/65) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
-4. 🗣 Commented on [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
-5. 🗣 Commented on [#302](https://github.com/ajnart/homarr/issues/302) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🎉 Merged PR [#305](https://github.com/ajnart/homarr/pull/305) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🎉 Merged PR [#304](https://github.com/ajnart/homarr/pull/304) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🎉 Merged PR [#303](https://github.com/ajnart/homarr/pull/303) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 💪 Opened PR [#65](https://github.com/scttcper/shared-torrent/pull/65) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
+5. 🗣 Commented on [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
 6. 🗣 Commented on [#302](https://github.com/ajnart/homarr/issues/302) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 🗣 Commented on [#264](https://github.com/ajnart/homarr/issues/264) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🗣 Commented on [#38934](https://github.com/vercel/next.js/issues/38934) in [vercel/next.js](https://github.com/vercel/next.js)
+7. 🗣 Commented on [#302](https://github.com/ajnart/homarr/issues/302) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🗣 Commented on [#264](https://github.com/ajnart/homarr/issues/264) in [ajnart/homarr](https://github.com/ajnart/homarr)
 9. 🗣 Commented on [#38934](https://github.com/vercel/next.js/issues/38934) in [vercel/next.js](https://github.com/vercel/next.js)
-10. 🗣 Commented on [#300](https://github.com/ajnart/homarr/issues/300) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#38934](https://github.com/vercel/next.js/issues/38934) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
