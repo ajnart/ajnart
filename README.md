@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#300](https://github.com/ajnart/homarr/pull/300) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 💪 Opened PR [#24](https://github.com/mantinedev/ui.mantine.dev/pull/24) in [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)
-4. 🎉 Merged PR [#305](https://github.com/ajnart/homarr/pull/305) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🎉 Merged PR [#304](https://github.com/ajnart/homarr/pull/304) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🎉 Merged PR [#303](https://github.com/ajnart/homarr/pull/303) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 💪 Opened PR [#65](https://github.com/scttcper/shared-torrent/pull/65) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
-8. 🗣 Commented on [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
-9. 🗣 Commented on [#302](https://github.com/ajnart/homarr/issues/302) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. 🗣 Commented on [#302](https://github.com/ajnart/homarr/issues/302) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#306](https://github.com/ajnart/homarr/issues/306) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#306](https://github.com/ajnart/homarr/issues/306) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🎉 Merged PR [#300](https://github.com/ajnart/homarr/pull/300) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 💪 Opened PR [#24](https://github.com/mantinedev/ui.mantine.dev/pull/24) in [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)
+6. 🎉 Merged PR [#305](https://github.com/ajnart/homarr/pull/305) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🎉 Merged PR [#304](https://github.com/ajnart/homarr/pull/304) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🎉 Merged PR [#303](https://github.com/ajnart/homarr/pull/303) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 💪 Opened PR [#65](https://github.com/scttcper/shared-torrent/pull/65) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
+10. 🗣 Commented on [#64](https://github.com/scttcper/shared-torrent/issues/64) in [scttcper/shared-torrent](https://github.com/scttcper/shared-torrent)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
