@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas</h1>
+<h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Thomas</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
 - 🦞 I’m currently working on [Homarr](https://github.com/ajnart/homarr)
