@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#336](https://github.com/ajnart/homarr/issues/336) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. ❗️ Closed issue [#332](https://github.com/ajnart/homarr/issues/332) in [ajnart/homarr](https://github.com/ajnart/homarr)
 2. 🗣 Commented on [#336](https://github.com/ajnart/homarr/issues/336) in [ajnart/homarr](https://github.com/ajnart/homarr)
 3. 🗣 Commented on [#336](https://github.com/ajnart/homarr/issues/336) in [ajnart/homarr](https://github.com/ajnart/homarr)
 4. 🗣 Commented on [#336](https://github.com/ajnart/homarr/issues/336) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🗣 Commented on [#325](https://github.com/ajnart/homarr/issues/325) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🗣 Commented on [#335](https://github.com/ajnart/homarr/issues/335) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#336](https://github.com/ajnart/homarr/issues/336) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🗣 Commented on [#325](https://github.com/ajnart/homarr/issues/325) in [ajnart/homarr](https://github.com/ajnart/homarr)
 7. 🗣 Commented on [#335](https://github.com/ajnart/homarr/issues/335) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🎉 Merged PR [#331](https://github.com/ajnart/homarr/pull/331) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. ❗️ Closed issue [#306](https://github.com/ajnart/homarr/issues/306) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. 🗣 Commented on [#306](https://github.com/ajnart/homarr/issues/306) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🗣 Commented on [#335](https://github.com/ajnart/homarr/issues/335) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 🎉 Merged PR [#331](https://github.com/ajnart/homarr/pull/331) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. ❗️ Closed issue [#306](https://github.com/ajnart/homarr/issues/306) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
