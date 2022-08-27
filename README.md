@@ -13,7 +13,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#372](https://github.com/ajnart/homarr/issues/372) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 💪 Opened PR [#380](https://github.com/ajnart/homarr/pull/380) in [ajnart/homarr](https://github.com/ajnart/homarr)
 2. 🗣 Commented on [#364](https://github.com/ajnart/homarr/issues/364) in [ajnart/homarr](https://github.com/ajnart/homarr)
 3. 🎉 Merged PR [#363](https://github.com/ajnart/homarr/pull/363) in [ajnart/homarr](https://github.com/ajnart/homarr)
 4. 🗣 Commented on [#364](https://github.com/ajnart/homarr/issues/364) in [ajnart/homarr](https://github.com/ajnart/homarr)
