@@ -13,7 +13,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#392](https://github.com/ajnart/homarr/pull/392) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. ❗️ Opened issue [#1](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/1) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
 2. 🗣 Commented on [#392](https://github.com/ajnart/homarr/issues/392) in [ajnart/homarr](https://github.com/ajnart/homarr)
 3. 🗣 Commented on [#375](https://github.com/ajnart/homarr/issues/375) in [ajnart/homarr](https://github.com/ajnart/homarr)
 4. 🎉 Merged PR [#1](https://github.com/ajnart/homarr-docs/pull/1) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
