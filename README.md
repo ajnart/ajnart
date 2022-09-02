@@ -13,10 +13,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#374](https://github.com/ajnart/homarr/issues/374) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🎉 Merged PR [#373](https://github.com/ajnart/homarr/pull/373) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. ❗️ Opened issue [#1](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/1) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
-4. 🎉 Merged PR [#1](https://github.com/ajnart/homarr-docs/pull/1) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
+1. ❌ Closed PR [#391](https://github.com/ajnart/homarr/pull/391) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#374](https://github.com/ajnart/homarr/issues/374) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. ❗️ Opened issue [#393](https://github.com/ajnart/homarr/issues/393) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🎉 Merged PR [#374](https://github.com/ajnart/homarr/pull/374) in [ajnart/homarr](https://github.com/ajnart/homarr)
 5. 🗣 Commented on [#375](https://github.com/ajnart/homarr/issues/375) in [ajnart/homarr](https://github.com/ajnart/homarr)
 6. 💪 Opened PR [#391](https://github.com/ajnart/homarr/pull/391) in [ajnart/homarr](https://github.com/ajnart/homarr)
 7. 🗣 Commented on [#364](https://github.com/ajnart/homarr/issues/364) in [ajnart/homarr](https://github.com/ajnart/homarr)
