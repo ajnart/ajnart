@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#408](https://github.com/ajnart/homarr/issues/408) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#174](https://github.com/ajnart/homarr/issues/174) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#407](https://github.com/ajnart/homarr/issues/407) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#408](https://github.com/ajnart/homarr/issues/408) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🗣 Commented on [#174](https://github.com/ajnart/homarr/issues/174) in [ajnart/homarr](https://github.com/ajnart/homarr)
 5. 🗣 Commented on [#407](https://github.com/ajnart/homarr/issues/407) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. ❗️ Opened issue [#2](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/2) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
-7. 🗣 Commented on [#1](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/1) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
-8. ❗️ Closed issue [#403](https://github.com/ajnart/homarr/issues/403) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. 🗣 Commented on [#405](https://github.com/ajnart/homarr/issues/405) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. 🗣 Commented on [#403](https://github.com/ajnart/homarr/issues/403) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🗣 Commented on [#407](https://github.com/ajnart/homarr/issues/407) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. ❗️ Opened issue [#2](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/2) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
+8. 🗣 Commented on [#1](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/1) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
+9. ❗️ Closed issue [#403](https://github.com/ajnart/homarr/issues/403) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#405](https://github.com/ajnart/homarr/issues/405) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
