@@ -13,12 +13,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#397](https://github.com/ajnart/homarr/issues/397) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#408](https://github.com/ajnart/homarr/issues/408) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🗣 Commented on [#174](https://github.com/ajnart/homarr/issues/174) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🗣 Commented on [#407](https://github.com/ajnart/homarr/issues/407) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#411](https://github.com/ajnart/homarr/issues/411) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#397](https://github.com/ajnart/homarr/issues/397) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🗣 Commented on [#408](https://github.com/ajnart/homarr/issues/408) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#298](https://github.com/ajnart/homarr/issues/298) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🗣 Commented on [#174](https://github.com/ajnart/homarr/issues/174) in [ajnart/homarr](https://github.com/ajnart/homarr)
 7. 🗣 Commented on [#407](https://github.com/ajnart/homarr/issues/407) in [ajnart/homarr](https://github.com/ajnart/homarr)
 8. ❗️ Opened issue [#2](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/2) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
 9. 🗣 Commented on [#1](https://github.com/tuanphungcz/nextjs-notion-blog-starter/issues/1) in [tuanphungcz/nextjs-notion-blog-starter](https://github.com/tuanphungcz/nextjs-notion-blog-starter)
