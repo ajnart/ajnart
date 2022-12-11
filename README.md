@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#534](https://github.com/ajnart/homarr/issues/534) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#480](https://github.com/ajnart/homarr/issues/480) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#480](https://github.com/ajnart/homarr/issues/480) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#495](https://github.com/ajnart/homarr/issues/495) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🗣 Commented on [#495](https://github.com/ajnart/homarr/issues/495) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🗣 Commented on [#496](https://github.com/ajnart/homarr/issues/496) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. ❗️ Opened issue [#528](https://github.com/ajnart/homarr/issues/528) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. ❗️ Closed issue [#517](https://github.com/ajnart/homarr/issues/517) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. 🗣 Commented on [#517](https://github.com/ajnart/homarr/issues/517) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. ❗️ Closed issue [#512](https://github.com/ajnart/homarr/issues/512) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#72](https://github.com/ajnart/homarr/issues/72) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. ❗️ Closed issue [#72](https://github.com/ajnart/homarr/issues/72) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. ❗️ Closed issue [#269](https://github.com/ajnart/homarr/issues/269) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. ❗️ Closed issue [#381](https://github.com/ajnart/homarr/issues/381) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. ❗️ Closed issue [#449](https://github.com/ajnart/homarr/issues/449) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🎉 Merged PR [#535](https://github.com/ajnart/homarr/pull/535) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 💪 Opened PR [#535](https://github.com/ajnart/homarr/pull/535) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. ❗️ Opened issue [#534](https://github.com/ajnart/homarr/issues/534) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 🗣 Commented on [#480](https://github.com/ajnart/homarr/issues/480) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#480](https://github.com/ajnart/homarr/issues/480) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
