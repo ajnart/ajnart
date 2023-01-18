@@ -13,14 +13,14 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#550](https://github.com/ajnart/homarr/issues/550) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#550](https://github.com/ajnart/homarr/issues/550) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🎉 Merged PR [#555](https://github.com/ajnart/homarr/pull/555) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🎉 Merged PR [#25](https://github.com/ajnart/homarr-docs/pull/25) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
-5. 🎉 Merged PR [#566](https://github.com/ajnart/homarr/pull/566) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 💪 Opened PR [#569](https://github.com/ajnart/homarr/pull/569) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 💪 Opened PR [#568](https://github.com/ajnart/homarr/pull/568) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🗣 Commented on [#560](https://github.com/ajnart/homarr/issues/560) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 💪 Opened PR [#571](https://github.com/ajnart/homarr/pull/571) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. ❗️ Closed issue [#550](https://github.com/ajnart/homarr/issues/550) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#550](https://github.com/ajnart/homarr/issues/550) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🎉 Merged PR [#555](https://github.com/ajnart/homarr/pull/555) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🎉 Merged PR [#25](https://github.com/ajnart/homarr-docs/pull/25) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
+6. 🎉 Merged PR [#566](https://github.com/ajnart/homarr/pull/566) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 💪 Opened PR [#569](https://github.com/ajnart/homarr/pull/569) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 💪 Opened PR [#568](https://github.com/ajnart/homarr/pull/568) in [ajnart/homarr](https://github.com/ajnart/homarr)
 9. 🗣 Commented on [#562](https://github.com/ajnart/homarr/issues/562) in [ajnart/homarr](https://github.com/ajnart/homarr)
 10. ❗️ Closed issue [#562](https://github.com/ajnart/homarr/issues/562) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
