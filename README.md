@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#606](https://github.com/ajnart/homarr/issues/606) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#240](https://github.com/ajnart/homarr/issues/240) in [ajnart/homarr](https://github.com/ajnart/homarr)
 2. 🗣 Commented on [#606](https://github.com/ajnart/homarr/issues/606) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#605](https://github.com/ajnart/homarr/issues/605) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#606](https://github.com/ajnart/homarr/issues/606) in [ajnart/homarr](https://github.com/ajnart/homarr)
 4. 🗣 Commented on [#605](https://github.com/ajnart/homarr/issues/605) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🗣 Commented on [#601](https://github.com/ajnart/homarr/issues/601) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#605](https://github.com/ajnart/homarr/issues/605) in [ajnart/homarr](https://github.com/ajnart/homarr)
 6. 🗣 Commented on [#601](https://github.com/ajnart/homarr/issues/601) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 🗣 Commented on [#598](https://github.com/ajnart/homarr/issues/598) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🗣 Commented on [#600](https://github.com/ajnart/homarr/issues/600) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🗣 Commented on [#601](https://github.com/ajnart/homarr/issues/601) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🗣 Commented on [#598](https://github.com/ajnart/homarr/issues/598) in [ajnart/homarr](https://github.com/ajnart/homarr)
 9. 🗣 Commented on [#600](https://github.com/ajnart/homarr/issues/600) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. 💪 Opened PR [#599](https://github.com/ajnart/homarr/pull/599) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#600](https://github.com/ajnart/homarr/issues/600) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
