@@ -18,11 +18,11 @@
 3. 🗣 Commented on [#635](https://github.com/ajnart/homarr/issues/635) in [ajnart/homarr](https://github.com/ajnart/homarr)
 4. 🗣 Commented on [#635](https://github.com/ajnart/homarr/issues/635) in [ajnart/homarr](https://github.com/ajnart/homarr)
 5. 🗣 Commented on [#635](https://github.com/ajnart/homarr/issues/635) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 💪 Opened PR [#3](https://github.com/Sleeq-EIP/app/pull/3) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)
-7. ❌ Closed PR [#1](https://github.com/Sleeq-EIP/app/pull/1) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)
-8. 🎉 Merged PR [#2](https://github.com/Sleeq-EIP/app/pull/2) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)
-9. 💪 Opened PR [#2](https://github.com/Sleeq-EIP/app/pull/2) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)
-10. 🗣 Commented on [#628](https://github.com/ajnart/homarr/issues/628) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🗣 Commented on [#628](https://github.com/ajnart/homarr/issues/628) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🗣 Commented on [#621](https://github.com/ajnart/homarr/issues/621) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🗣 Commented on [#621](https://github.com/ajnart/homarr/issues/621) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 💪 Opened PR [#626](https://github.com/ajnart/homarr/pull/626) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. ❗️ Opened issue [#625](https://github.com/ajnart/homarr/issues/625) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
