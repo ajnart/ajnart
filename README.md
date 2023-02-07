@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#693](https://github.com/ajnart/homarr/pull/693) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#692](https://github.com/ajnart/homarr/issues/692) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#685](https://github.com/ajnart/homarr/issues/685) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#323](https://github.com/ajnart/homarr/issues/323) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 💪 Opened PR [#693](https://github.com/ajnart/homarr/pull/693) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#692](https://github.com/ajnart/homarr/issues/692) in [ajnart/homarr](https://github.com/ajnart/homarr)
 4. ❗️ Closed issue [#686](https://github.com/ajnart/homarr/issues/686) in [ajnart/homarr](https://github.com/ajnart/homarr)
 5. 🗣 Commented on [#686](https://github.com/ajnart/homarr/issues/686) in [ajnart/homarr](https://github.com/ajnart/homarr)
 6. ❌ Closed PR [#688](https://github.com/ajnart/homarr/pull/688) in [ajnart/homarr](https://github.com/ajnart/homarr)
