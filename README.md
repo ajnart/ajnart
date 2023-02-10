@@ -13,13 +13,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#701](https://github.com/ajnart/homarr/pull/701) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#699](https://github.com/ajnart/homarr/issues/699) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#699](https://github.com/ajnart/homarr/issues/699) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#699](https://github.com/ajnart/homarr/issues/699) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 💪 Opened PR [#697](https://github.com/ajnart/homarr/pull/697) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. ❗️ Opened issue [#696](https://github.com/ajnart/homarr/issues/696) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. ❗️ Closed issue [#538](https://github.com/ajnart/homarr/issues/538) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#705](https://github.com/ajnart/homarr/issues/705) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#705](https://github.com/ajnart/homarr/issues/705) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#697](https://github.com/ajnart/homarr/issues/697) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 💪 Opened PR [#701](https://github.com/ajnart/homarr/pull/701) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#699](https://github.com/ajnart/homarr/issues/699) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🗣 Commented on [#699](https://github.com/ajnart/homarr/issues/699) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🗣 Commented on [#699](https://github.com/ajnart/homarr/issues/699) in [ajnart/homarr](https://github.com/ajnart/homarr)
 8. 🗣 Commented on [#538](https://github.com/ajnart/homarr/issues/538) in [ajnart/homarr](https://github.com/ajnart/homarr)
 9. 🗣 Commented on [#685](https://github.com/ajnart/homarr/issues/685) in [ajnart/homarr](https://github.com/ajnart/homarr)
 10. 🗣 Commented on [#685](https://github.com/ajnart/homarr/issues/685) in [ajnart/homarr](https://github.com/ajnart/homarr)
