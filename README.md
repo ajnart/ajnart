@@ -14,15 +14,15 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#705](https://github.com/ajnart/homarr/issues/705) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 💪 Opened PR [#711](https://github.com/ajnart/homarr/pull/711) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#694](https://github.com/ajnart/homarr/issues/694) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🎉 Merged PR [#710](https://github.com/ajnart/homarr/pull/710) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. ❌ Closed PR [#37](https://github.com/ajnart/homarr-docs/pull/37) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
-6. 🗣 Commented on [#37](https://github.com/ajnart/homarr-docs/issues/37) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
-7. 🎉 Merged PR [#709](https://github.com/ajnart/homarr/pull/709) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. ❌ Closed PR [#708](https://github.com/ajnart/homarr/pull/708) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. 💪 Opened PR [#710](https://github.com/ajnart/homarr/pull/710) in [ajnart/homarr](https://github.com/ajnart/homarr)
-10. 💪 Opened PR [#709](https://github.com/ajnart/homarr/pull/709) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#705](https://github.com/ajnart/homarr/issues/705) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 💪 Opened PR [#711](https://github.com/ajnart/homarr/pull/711) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🗣 Commented on [#694](https://github.com/ajnart/homarr/issues/694) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🎉 Merged PR [#710](https://github.com/ajnart/homarr/pull/710) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. ❌ Closed PR [#37](https://github.com/ajnart/homarr-docs/pull/37) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
+7. 🗣 Commented on [#37](https://github.com/ajnart/homarr-docs/issues/37) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
+8. 🎉 Merged PR [#709](https://github.com/ajnart/homarr/pull/709) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. ❌ Closed PR [#708](https://github.com/ajnart/homarr/pull/708) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 💪 Opened PR [#710](https://github.com/ajnart/homarr/pull/710) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
