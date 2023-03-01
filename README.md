@@ -13,9 +13,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/ajnart/mynetflix/issues/2) in [ajnart/mynetflix](https://github.com/ajnart/mynetflix)
-2. 🎉 Merged PR [#40](https://github.com/ajnart/homarr-docs/pull/40) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
-3. 🗣 Commented on [#712](https://github.com/ajnart/homarr/issues/712) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#743](https://github.com/ajnart/homarr/issues/743) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#2](https://github.com/ajnart/mynetflix/issues/2) in [ajnart/mynetflix](https://github.com/ajnart/mynetflix)
+3. 🎉 Merged PR [#40](https://github.com/ajnart/homarr-docs/pull/40) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
 4. 🗣 Commented on [#725](https://github.com/ajnart/homarr/issues/725) in [ajnart/homarr](https://github.com/ajnart/homarr)
 5. ❗️ Closed issue [#629](https://github.com/ajnart/homarr/issues/629) in [ajnart/homarr](https://github.com/ajnart/homarr)
 6. 🗣 Commented on [#629](https://github.com/ajnart/homarr/issues/629) in [ajnart/homarr](https://github.com/ajnart/homarr)
