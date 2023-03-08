@@ -13,16 +13,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#756](https://github.com/ajnart/homarr/pull/756) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#759](https://github.com/ajnart/homarr/issues/759) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. 🗣 Commented on [#757](https://github.com/ajnart/homarr/issues/757) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. ❗️ Closed issue [#729](https://github.com/ajnart/homarr/issues/729) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. ❗️ Closed issue [#726](https://github.com/ajnart/homarr/issues/726) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🎉 Merged PR [#750](https://github.com/ajnart/homarr/pull/750) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 💪 Opened PR [#752](https://github.com/ajnart/homarr/pull/752) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. ❗️ Opened issue [#751](https://github.com/ajnart/homarr/issues/751) in [ajnart/homarr](https://github.com/ajnart/homarr)
-9. 🗣 Commented on [#871](https://github.com/warpdotdev/Warp/issues/871) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-10. 🗣 Commented on [#609](https://github.com/ajnart/homarr/issues/609) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#728](https://github.com/ajnart/homarr/issues/728) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🎉 Merged PR [#756](https://github.com/ajnart/homarr/pull/756) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#759](https://github.com/ajnart/homarr/issues/759) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. 🗣 Commented on [#757](https://github.com/ajnart/homarr/issues/757) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. ❗️ Closed issue [#729](https://github.com/ajnart/homarr/issues/729) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. ❗️ Closed issue [#726](https://github.com/ajnart/homarr/issues/726) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🎉 Merged PR [#750](https://github.com/ajnart/homarr/pull/750) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 💪 Opened PR [#752](https://github.com/ajnart/homarr/pull/752) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. ❗️ Opened issue [#751](https://github.com/ajnart/homarr/issues/751) in [ajnart/homarr](https://github.com/ajnart/homarr)
+10. 🗣 Commented on [#871](https://github.com/warpdotdev/Warp/issues/871) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
