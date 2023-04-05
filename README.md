@@ -13,15 +13,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 💪 Opened PR [#797](https://github.com/ajnart/homarr/pull/797) in [ajnart/homarr](https://github.com/ajnart/homarr)
-3. ❗️ Opened issue [#117](https://github.com/creyD/prettier_action/issues/117) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
-4. 🗣 Commented on [#796](https://github.com/ajnart/homarr/issues/796) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🎉 Merged PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 💪 Opened PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 💪 Opened PR [#797](https://github.com/ajnart/homarr/pull/797) in [ajnart/homarr](https://github.com/ajnart/homarr)
+4. ❗️ Opened issue [#117](https://github.com/creyD/prettier_action/issues/117) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
 5. 🗣 Commented on [#796](https://github.com/ajnart/homarr/issues/796) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 🗣 Commented on [#785](https://github.com/ajnart/homarr/issues/785) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 🎉 Merged PR [#788](https://github.com/ajnart/homarr/pull/788) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. 🎉 Merged PR [#47](https://github.com/ajnart/homarr-docs/pull/47) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
-9. 🗣 Commented on [#47](https://github.com/ajnart/homarr-docs/issues/47) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
+6. 🗣 Commented on [#796](https://github.com/ajnart/homarr/issues/796) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 🗣 Commented on [#785](https://github.com/ajnart/homarr/issues/785) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 🎉 Merged PR [#788](https://github.com/ajnart/homarr/pull/788) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. 🎉 Merged PR [#47](https://github.com/ajnart/homarr-docs/pull/47) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
 10. 🗣 Commented on [#47](https://github.com/ajnart/homarr-docs/issues/47) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)
 <!--END_SECTION:activity-->
 
