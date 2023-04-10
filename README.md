@@ -13,15 +13,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#797](https://github.com/ajnart/homarr/issues/797) in [ajnart/homarr](https://github.com/ajnart/homarr)
-2. 🗣 Commented on [#117](https://github.com/creyD/prettier_action/issues/117) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
-3. 🎉 Merged PR [#769](https://github.com/ajnart/homarr/pull/769) in [ajnart/homarr](https://github.com/ajnart/homarr)
-4. 🗣 Commented on [#795](https://github.com/ajnart/homarr/issues/795) in [ajnart/homarr](https://github.com/ajnart/homarr)
-5. 🎉 Merged PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
-6. 💪 Opened PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
-7. 💪 Opened PR [#797](https://github.com/ajnart/homarr/pull/797) in [ajnart/homarr](https://github.com/ajnart/homarr)
-8. ❗️ Opened issue [#117](https://github.com/creyD/prettier_action/issues/117) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
-9. 🗣 Commented on [#796](https://github.com/ajnart/homarr/issues/796) in [ajnart/homarr](https://github.com/ajnart/homarr)
+1. 🗣 Commented on [#801](https://github.com/ajnart/homarr/issues/801) in [ajnart/homarr](https://github.com/ajnart/homarr)
+2. 🗣 Commented on [#797](https://github.com/ajnart/homarr/issues/797) in [ajnart/homarr](https://github.com/ajnart/homarr)
+3. 🗣 Commented on [#117](https://github.com/creyD/prettier_action/issues/117) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
+4. 🎉 Merged PR [#769](https://github.com/ajnart/homarr/pull/769) in [ajnart/homarr](https://github.com/ajnart/homarr)
+5. 🗣 Commented on [#795](https://github.com/ajnart/homarr/issues/795) in [ajnart/homarr](https://github.com/ajnart/homarr)
+6. 🎉 Merged PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
+7. 💪 Opened PR [#798](https://github.com/ajnart/homarr/pull/798) in [ajnart/homarr](https://github.com/ajnart/homarr)
+8. 💪 Opened PR [#797](https://github.com/ajnart/homarr/pull/797) in [ajnart/homarr](https://github.com/ajnart/homarr)
+9. ❗️ Opened issue [#117](https://github.com/creyD/prettier_action/issues/117) in [creyD/prettier_action](https://github.com/creyD/prettier_action)
 10. 🗣 Commented on [#796](https://github.com/ajnart/homarr/issues/796) in [ajnart/homarr](https://github.com/ajnart/homarr)
 <!--END_SECTION:activity-->
 
