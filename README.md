@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#794](https://github.com/ajnart/homarr/issues/794#issuecomment-1547287952) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#892](https://github.com/ajnart/homarr/issues/892#issuecomment-1547285794) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ✔️ Closed issue [#893](https://github.com/ajnart/homarr/issues/893) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#893](https://github.com/ajnart/homarr/issues/893#issuecomment-1547279243) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💬 Commented on [#891](https://github.com/ajnart/homarr/issues/891#issuecomment-1544804373) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 🎉 Merged PR [#855](https://github.com/ajnart/homarr/pull/855) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💪 Opened PR [#895](https://github.com/ajnart/homarr/pull/895) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💪 Opened PR [#894](https://github.com/ajnart/homarr/pull/894) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💬 Commented on [#794](https://github.com/ajnart/homarr/issues/794#issuecomment-1547287952) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 15th, 2023, 7:09:52 AM
+Last Updated: Monday, May 15th, 2023, 7:33:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
