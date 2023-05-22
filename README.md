@@ -13,14 +13,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-2. 💪 Opened PR [#56](https://github.com/ajnart/homarr-docs/pull/56) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-3. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 🎉 Merged PR [#944](https://github.com/ajnart/homarr/pull/944) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 2 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+3. 🎉 Merged PR [#48](https://github.com/ajnart/homarr-docs/pull/48) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+4. 💬 Commented on [#48](https://github.com/ajnart/homarr-docs/pull/48#issuecomment-1556422503) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 22nd, 2023, 2:09:06 AM
+Last Updated: Monday, May 22nd, 2023, 2:47:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
