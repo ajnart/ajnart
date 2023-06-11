@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-2. 🎉 Merged PR [#58](https://github.com/ajnart/homarr-docs/pull/58) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-3. 💬 Commented on [#58](https://github.com/ajnart/homarr-docs/pull/58#issuecomment-1586219570) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-5. 🎉 Merged PR [#63](https://github.com/ajnart/homarr-docs/pull/63) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 2 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+3. 🎉 Merged PR [#58](https://github.com/ajnart/homarr-docs/pull/58) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+4. 💬 Commented on [#58](https://github.com/ajnart/homarr-docs/pull/58#issuecomment-1586219570) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+5. ⬆️ Pushed 2 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 11th, 2023, 7:07:45 PM
+Last Updated: Sunday, June 11th, 2023, 7:33:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
