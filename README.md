@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1044](https://github.com/ajnart/homarr/pull/1044#discussion_r1225765639) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 👍 Approved [#1044](https://github.com/ajnart/homarr/pull/1044#pullrequestreview-1473651860) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#1046](https://github.com/ajnart/homarr/pull/1046#discussion_r1225792104) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1044](https://github.com/ajnart/homarr/pull/1044#discussion_r1225765639) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 3. 👍 Approved [#1044](https://github.com/ajnart/homarr/pull/1044#pullrequestreview-1473651860) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1046](https://github.com/ajnart/homarr/pull/1046#discussion_r1225764688) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💪 Opened PR [#1046](https://github.com/ajnart/homarr/pull/1046) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 👍 Approved [#1044](https://github.com/ajnart/homarr/pull/1044#pullrequestreview-1473651860) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💬 Commented on [#1046](https://github.com/ajnart/homarr/pull/1046#discussion_r1225764688) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 11th, 2023, 11:33:49 AM
+Last Updated: Sunday, June 11th, 2023, 12:17:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
