@@ -15,12 +15,12 @@
 1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-5. 🎉 Merged PR [#58](https://github.com/ajnart/homarr-docs/pull/58) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 12th, 2023, 8:13:04 AM
+Last Updated: Monday, June 12th, 2023, 8:34:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
