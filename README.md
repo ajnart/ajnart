@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 👍 Approved [#1044](https://github.com/ajnart/homarr/pull/1044#pullrequestreview-1476639733) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 💬 Commented on [#1046](https://github.com/ajnart/homarr/pull/1046#discussion_r1226293445) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 🎉 Merged PR [#1041](https://github.com/ajnart/homarr/pull/1041) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⬆️ Pushed 4 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 🎉 Merged PR [#1046](https://github.com/ajnart/homarr/pull/1046) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 13th, 2023, 9:09:42 AM
+Last Updated: Tuesday, June 13th, 2023, 9:33:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
