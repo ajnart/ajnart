@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 🎉 Merged PR [#1086](https://github.com/ajnart/homarr/pull/1086) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ❌ Closed PR [#1090](https://github.com/ajnart/homarr/pull/1090) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#2606](https://github.com/lwouis/alt-tab-macos/issues/2606#issuecomment-1603629777) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)<br>
+2. 💬 Commented on [#184542](https://github.com/microsoft/vscode/issues/184542#issuecomment-1603613138) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+3. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 🎉 Merged PR [#1086](https://github.com/ajnart/homarr/pull/1086) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ❌ Closed PR [#1090](https://github.com/ajnart/homarr/pull/1090) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 23rd, 2023, 2:45:41 AM
+Last Updated: Friday, June 23rd, 2023, 3:26:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
