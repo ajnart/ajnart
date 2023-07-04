@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Linkedin [https://www.linkedin.com/in/thomas-camlong/](https://www.linkedin.com/in/thomas-camlong/)
 
-- 📫 Reach me at : **ajnart@pm.me**
+- 📫 Reach me at : **thomas@ajnart.fr**
 
 ### :zap: Recent Activity
 
