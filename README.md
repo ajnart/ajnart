@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1127](https://github.com/ajnart/homarr/issues/1127) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#1126](https://github.com/ajnart/homarr/issues/1126#issuecomment-1619278629) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart](https://github.com/ajnart/ajnart)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💪 Opened PR [#1125](https://github.com/ajnart/homarr/pull/1125) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#466](https://github.com/jellyfin/jellyfin-media-player/issues/466#issuecomment-1619446926) in [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player)<br>
+2. ❗️ Opened issue [#466](https://github.com/jellyfin/jellyfin-media-player/issues/466) in [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player)<br>
+3. ❗️ Opened issue [#1127](https://github.com/ajnart/homarr/issues/1127) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💬 Commented on [#1126](https://github.com/ajnart/homarr/issues/1126#issuecomment-1619278629) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart](https://github.com/ajnart/ajnart)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 4th, 2023, 3:42:44 AM
+Last Updated: Tuesday, July 4th, 2023, 4:13:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
