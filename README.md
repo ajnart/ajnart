@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed 7 commit(s) to [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)<br>
+2. 🎉 Merged PR [#7](https://github.com/Sleeq-EIP/app/pull/7) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)<br>
+3. ⬆️ Pushed 53 commit(s) to [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)<br>
+4. 💪 Opened PR [#7](https://github.com/Sleeq-EIP/app/pull/7) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 12th, 2023, 6:14:19 AM
+Last Updated: Wednesday, July 12th, 2023, 6:38:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
