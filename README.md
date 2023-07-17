@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1125](https://github.com/ajnart/homarr/pull/1125#issuecomment-1637957138) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ✌️ Released [v0.13.0 : tRPC migration and performance improvements](https://github.com/ajnart/homarr/releases/tag/v0.13.0) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1125](https://github.com/ajnart/homarr/pull/1125#issuecomment-1637957138) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 17th, 2023, 2:36:25 PM
+Last Updated: Monday, July 17th, 2023, 3:11:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
