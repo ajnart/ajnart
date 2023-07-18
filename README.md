@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 2 commit(s) to [beamcode/webdesign](https://github.com/beamcode/webdesign)<br>
-3. ⬆️ Pushed 1 commit(s) to [beamcode/webdesign](https://github.com/beamcode/webdesign)<br>
-4. 💪 Opened PR [#1180](https://github.com/ajnart/homarr/pull/1180) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 🔴 Requested 1 change(s) for [#1184](https://github.com/ajnart/homarr/pull/1184#pullrequestreview-1535995531) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 2 commit(s) to [beamcode/webdesign](https://github.com/beamcode/webdesign)<br>
+4. ⬆️ Pushed 1 commit(s) to [beamcode/webdesign](https://github.com/beamcode/webdesign)<br>
+5. 💪 Opened PR [#1180](https://github.com/ajnart/homarr/pull/1180) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 18th, 2023, 10:33:58 PM
+Last Updated: Tuesday, July 18th, 2023, 11:09:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
