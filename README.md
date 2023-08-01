@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1231](https://github.com/ajnart/homarr/pull/1231#issuecomment-1659592237) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 👍 Approved [#1231](https://github.com/ajnart/homarr/pull/1231#pullrequestreview-1556188684) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 3 commit(s) to [Tagaishi/homarr](https://github.com/Tagaishi/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 🔴 Requested 1 change(s) for [#1231](https://github.com/ajnart/homarr/pull/1231#pullrequestreview-1556153500) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1231](https://github.com/ajnart/homarr/pull/1231#issuecomment-1659592237) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 👍 Approved [#1231](https://github.com/ajnart/homarr/pull/1231#pullrequestreview-1556188684) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⬆️ Pushed 3 commit(s) to [Tagaishi/homarr](https://github.com/Tagaishi/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 1st, 2023, 7:33:49 AM
+Last Updated: Tuesday, August 1st, 2023, 8:12:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
