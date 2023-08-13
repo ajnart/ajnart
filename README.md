@@ -13,14 +13,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ✌️ Released [v0.13.2: Notebook widget, Time for city, more hotfixes](https://github.com/ajnart/homarr/releases/tag/v0.13.2) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 3 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 🎉 Merged PR [#1274](https://github.com/ajnart/homarr/pull/1274) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💪 Opened PR [#1274](https://github.com/ajnart/homarr/pull/1274) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ✌️ Released [v0.13.2: Notebook widget, Time for city, more hotfixes](https://github.com/ajnart/homarr/releases/tag/v0.13.2) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⬆️ Pushed 3 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 🎉 Merged PR [#1274](https://github.com/ajnart/homarr/pull/1274) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 13th, 2023, 11:07:09 AM
+Last Updated: Sunday, August 13th, 2023, 11:33:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
