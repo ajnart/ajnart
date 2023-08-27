@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 🎉 Merged PR [#1331](https://github.com/ajnart/homarr/pull/1331) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 👍 Approved [#1331](https://github.com/ajnart/homarr/pull/1331#pullrequestreview-1597089429) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1329](https://github.com/ajnart/homarr/issues/1329#issuecomment-1694408490) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ❌ Closed PR [#1320](https://github.com/ajnart/homarr/pull/1320) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 👍 Approved [#3](https://github.com/manuel-rw/unraid-templates/pull/3#pullrequestreview-1597175701) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+2. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706040) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+3. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706308) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+4. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706143) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+5. 🔴 Requested 1 change(s) for [#3](https://github.com/manuel-rw/unraid-templates/pull/3#pullrequestreview-1597174543) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 6:34:18 PM
+Last Updated: Sunday, August 27th, 2023, 7:07:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
