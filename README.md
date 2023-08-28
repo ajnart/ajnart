@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/reverse-proxy-confs](https://github.com/ajnart/reverse-proxy-confs)<br>
-2. 🔱 Forked [ajnart/reverse-proxy-confs](https://github.com/ajnart/reverse-proxy-confs) from [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
-3. 💬 Commented on [#372](https://github.com/linuxserver/docker-mods/issues/372#issuecomment-1696151928) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)<br>
-4. 💬 Commented on [#372](https://github.com/linuxserver/docker-mods/issues/372#issuecomment-1696135878) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)<br>
-5. ⭐ Starred [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)<br>
+1. ❌ Closed PR [#600](https://github.com/linuxserver/reverse-proxy-confs/pull/600) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
+2. 💬 Commented on [#600](https://github.com/linuxserver/reverse-proxy-confs/pull/600#issuecomment-1696219711) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
+3. 💪 Opened PR [#600](https://github.com/linuxserver/reverse-proxy-confs/pull/600) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
+4. 💬 Commented on [#372](https://github.com/linuxserver/docker-mods/issues/372#issuecomment-1696218555) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/reverse-proxy-confs](https://github.com/ajnart/reverse-proxy-confs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 28th, 2023, 7:33:48 PM
+Last Updated: Monday, August 28th, 2023, 8:10:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
