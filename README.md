@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1286](https://github.com/ajnart/homarr/issues/1286#issuecomment-1695022240) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 👍 Approved [#3](https://github.com/manuel-rw/unraid-templates/pull/3#pullrequestreview-1597175701) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
-3. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706040) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
-4. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706308) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
-5. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706143) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+1. ⭐ Starred [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)<br>
+2. 💬 Commented on [#1286](https://github.com/ajnart/homarr/issues/1286#issuecomment-1695022240) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 👍 Approved [#3](https://github.com/manuel-rw/unraid-templates/pull/3#pullrequestreview-1597175701) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+4. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706040) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
+5. 💬 Commented on [#3](https://github.com/manuel-rw/unraid-templates/pull/3#discussion_r1306706308) in [manuel-rw/unraid-templates](https://github.com/manuel-rw/unraid-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 28th, 2023, 6:34:20 PM
+Last Updated: Monday, August 28th, 2023, 7:07:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
