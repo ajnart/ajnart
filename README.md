@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [beeper/self-host](https://github.com/beeper/self-host)<br>
-2. ❌ Closed PR [#600](https://github.com/linuxserver/reverse-proxy-confs/pull/600) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
-3. 💬 Commented on [#600](https://github.com/linuxserver/reverse-proxy-confs/pull/600#issuecomment-1696219711) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
-4. 💪 Opened PR [#600](https://github.com/linuxserver/reverse-proxy-confs/pull/600) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)<br>
-5. 💬 Commented on [#372](https://github.com/linuxserver/docker-mods/issues/372#issuecomment-1696218555) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)<br>
+1. 💬 Commented on [#1335](https://github.com/ajnart/homarr/issues/1335#issuecomment-1702828220) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1339](https://github.com/ajnart/homarr/pull/1339#issuecomment-1702823827) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💬 Commented on [#1338](https://github.com/ajnart/homarr/issues/1338#issuecomment-1702821637) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💬 Commented on [#1345](https://github.com/ajnart/homarr/issues/1345#issuecomment-1702817695) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💬 Commented on [#1347](https://github.com/ajnart/homarr/issues/1347#issuecomment-1702816807) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 2:09:07 PM
+Last Updated: Friday, September 1st, 2023, 2:34:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
