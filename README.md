@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#30](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar/pull/30) in [Thezap/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/ajnart/Linker_EPITECH_To_GOOGLE_Calendar)<br>
-3. 🔱 Forked [ajnart/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/ajnart/Linker_EPITECH_To_GOOGLE_Calendar) from [Thezap/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#30](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar/pull/30#issuecomment-1703786931) in [Thezap/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar)<br>
+2. 💪 Opened PR [#30](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar/pull/30) in [Thezap/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar)<br>
+3. ⬆️ Pushed 1 commit(s) to [ajnart/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/ajnart/Linker_EPITECH_To_GOOGLE_Calendar)<br>
+4. 🔱 Forked [ajnart/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/ajnart/Linker_EPITECH_To_GOOGLE_Calendar) from [Thezap/Linker_EPITECH_To_GOOGLE_Calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 2nd, 2023, 9:33:39 AM
+Last Updated: Saturday, September 2nd, 2023, 10:08:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
