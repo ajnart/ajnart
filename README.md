@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#1353](https://github.com/ajnart/homarr/pull/1353#discussion_r1314243198) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 14 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+3. 🎉 Merged PR [#71](https://github.com/ajnart/homarr-docs/pull/71) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 3rd, 2023, 11:33:44 AM
+Last Updated: Sunday, September 3rd, 2023, 12:16:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
