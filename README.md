@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1374](https://github.com/ajnart/homarr/issues/1374#issuecomment-1710471821) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
-5. 📔 Created new repository [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 7:33:44 PM
+Last Updated: Thursday, September 7th, 2023, 8:10:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
