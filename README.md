@@ -12,7 +12,7 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 2. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
 3. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/HVF-website](https://github.com/ajnart/HVF-website)<br>
@@ -20,7 +20,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 2:07:47 PM
+Last Updated: Saturday, September 9th, 2023, 2:33:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
