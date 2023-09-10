@@ -14,13 +14,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
 2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-3. ❗️ Opened issue [#75](https://github.com/ajnart/homarr-docs/issues/75) in [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-4. ❗️ Opened issue [#1391](https://github.com/ajnart/homarr/issues/1391) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 10th, 2023, 9:33:58 AM
+Last Updated: Sunday, September 10th, 2023, 10:08:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
