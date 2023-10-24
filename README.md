@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2365](https://github.com/umami-software/umami/issues/2365) in [umami-software/umami](https://github.com/umami-software/umami)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 💪 Opened PR [#1494](https://github.com/ajnart/homarr/pull/1494) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr-docs](https://github.com/ajnart/homarr-docs)<br>
+1. 💬 Commented on [#1495](https://github.com/ajnart/homarr/issues/1495#issuecomment-1777609756) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1495](https://github.com/ajnart/homarr/issues/1495#issuecomment-1777605232) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ❗️ Opened issue [#2365](https://github.com/umami-software/umami/issues/2365) in [umami-software/umami](https://github.com/umami-software/umami)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💪 Opened PR [#1494](https://github.com/ajnart/homarr/pull/1494) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 24th, 2023, 4:37:44 PM
+Last Updated: Tuesday, October 24th, 2023, 5:09:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
