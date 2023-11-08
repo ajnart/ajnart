@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1550](https://github.com/ajnart/homarr/pull/1550) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#1557](https://github.com/ajnart/homarr/pull/1557#issuecomment-1801326136) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ✔️ Closed issue [#832](https://github.com/ajnart/homarr/issues/832) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ✔️ Closed issue [#1423](https://github.com/ajnart/homarr/issues/1423) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💬 Commented on [#1557](https://github.com/ajnart/homarr/pull/1557#issuecomment-1800842052) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💪 Opened PR [#1565](https://github.com/ajnart/homarr/pull/1565) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 8th, 2023, 7:33:50 PM
+Last Updated: Wednesday, November 8th, 2023, 8:10:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
