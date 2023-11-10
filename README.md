@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.14.0 Authentification update and database](https://github.com/ajnart/homarr/releases/tag/v0.14.0) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💪 Opened PR [#1572](https://github.com/ajnart/homarr/pull/1572) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ✔️ Closed issue [#1405](https://github.com/ajnart/homarr/issues/1405) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ✔️ Closed issue [#1328](https://github.com/ajnart/homarr/issues/1328) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ✔️ Closed issue [#1305](https://github.com/ajnart/homarr/issues/1305) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ✔️ Closed issue [#1217](https://github.com/ajnart/homarr/issues/1217) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ✔️ Closed issue [#1132](https://github.com/ajnart/homarr/issues/1132) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 10th, 2023, 10:33:53 PM
+Last Updated: Friday, November 10th, 2023, 11:09:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
