@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#14563](https://github.com/truecharts/charts/pull/14563#issuecomment-1811930078) in [truecharts/charts](https://github.com/truecharts/charts)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1644](https://github.com/ajnart/homarr/issues/1644#issuecomment-1811582053) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ❗️ Opened issue [#1644](https://github.com/ajnart/homarr/issues/1644) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ✔️ Closed issue [#1646](https://github.com/ajnart/homarr/issues/1646) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ✔️ Closed issue [#1646](https://github.com/ajnart/homarr/issues/1646) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 🎉 Merged PR [#1652](https://github.com/ajnart/homarr/pull/1652) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 15th, 2023, 7:34:20 AM
+Last Updated: Wednesday, November 15th, 2023, 8:13:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
