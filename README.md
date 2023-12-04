@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1497](https://github.com/ajnart/homarr/pull/1497#discussion_r1413064782) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 20 commit(s) to [Tagaishi/homarr](https://github.com/Tagaishi/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1714](https://github.com/ajnart/homarr/pull/1714#discussion_r1412786831) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ✔️ Closed issue [#1712](https://github.com/ajnart/homarr/issues/1712) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⭐ Starred [Make-Tarkov-Great-Again/MTGO-Launcher](https://github.com/Make-Tarkov-Great-Again/MTGO-Launcher)<br>
+2. 💬 Commented on [#1497](https://github.com/ajnart/homarr/pull/1497#discussion_r1413064782) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 20 commit(s) to [Tagaishi/homarr](https://github.com/Tagaishi/homarr)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💬 Commented on [#1714](https://github.com/ajnart/homarr/pull/1714#discussion_r1412786831) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 4th, 2023, 12:50:17 AM
+Last Updated: Monday, December 4th, 2023, 1:53:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
