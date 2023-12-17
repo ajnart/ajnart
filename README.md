@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 17th, 2023, 12:17:40 PM
+Last Updated: Sunday, December 17th, 2023, 12:45:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
