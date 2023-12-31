@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 10 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 🎉 Merged PR [#1773](https://github.com/ajnart/homarr/pull/1773) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-5. 🎉 Merged PR [#3](https://github.com/homarr-labs/documentation/pull/3) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+1. 💬 Commented on [#1463](https://github.com/ajnart/homarr/issues/1463#issuecomment-1873031876) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 10 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 🎉 Merged PR [#1773](https://github.com/ajnart/homarr/pull/1773) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 31st, 2023, 8:10:19 PM
+Last Updated: Sunday, December 31st, 2023, 8:34:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
