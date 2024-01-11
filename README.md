@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#1807](https://github.com/ajnart/homarr/pull/1807#discussion_r1448707533) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1807](https://github.com/ajnart/homarr/pull/1807#discussion_r1448710670) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💬 Commented on [#1807](https://github.com/ajnart/homarr/pull/1807#discussion_r1448707821) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 🔴 Requested 2 change(s) for [#1807](https://github.com/ajnart/homarr/pull/1807#pullrequestreview-1815322220) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 11th, 2024, 11:08:56 AM
+Last Updated: Thursday, January 11th, 2024, 11:33:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
