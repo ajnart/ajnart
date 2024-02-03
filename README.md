@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1873](https://github.com/ajnart/homarr/pull/1873) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ✔️ Closed issue [#1872](https://github.com/ajnart/homarr/issues/1872) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1872](https://github.com/ajnart/homarr/issues/1872#issuecomment-1925415965) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💪 Opened PR [#1873](https://github.com/ajnart/homarr/pull/1873) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 3rd, 2024, 5:33:46 PM
+Last Updated: Saturday, February 3rd, 2024, 6:11:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
