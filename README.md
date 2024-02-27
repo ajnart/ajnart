@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3337](https://github.com/mantinedev/mantine/issues/3337#issuecomment-1964662399) in [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
-2. 💬 Commented on [#1879](https://github.com/ajnart/homarr/pull/1879#issuecomment-1961324251) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1920](https://github.com/ajnart/homarr/issues/1920#issuecomment-1960905148) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💬 Commented on [#1923](https://github.com/ajnart/homarr/issues/1923#issuecomment-1960905088) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#1930](https://github.com/ajnart/homarr/issues/1930#issuecomment-1967529170) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ✔️ Closed issue [#1930](https://github.com/ajnart/homarr/issues/1930) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ❗️ Opened issue [#1930](https://github.com/ajnart/homarr/issues/1930) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⬆️ Pushed 1 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 27th, 2024, 8:10:12 PM
+Last Updated: Tuesday, February 27th, 2024, 8:35:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
