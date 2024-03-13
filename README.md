@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1954](https://github.com/ajnart/homarr/issues/1954) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 🎉 Merged PR [#1953](https://github.com/ajnart/homarr/pull/1953) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1953](https://github.com/ajnart/homarr/pull/1953#issuecomment-1987681957) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 👍 Approved [#1953](https://github.com/ajnart/homarr/pull/1953#pullrequestreview-1926977673) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ❗️ Opened issue [#11265](https://github.com/raycast/extensions/issues/11265) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+2. ❗️ Opened issue [#1954](https://github.com/ajnart/homarr/issues/1954) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 2 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 🎉 Merged PR [#1953](https://github.com/ajnart/homarr/pull/1953) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💬 Commented on [#1953](https://github.com/ajnart/homarr/pull/1953#issuecomment-1987681957) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 13th, 2024, 3:42:54 PM
+Last Updated: Wednesday, March 13th, 2024, 4:35:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
