@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1927](https://github.com/ajnart/homarr/issues/1927#issuecomment-2063381951) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#1938](https://github.com/ajnart/homarr/issues/1938#issuecomment-2063375922) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 💬 Commented on [#1933](https://github.com/ajnart/homarr/issues/1933#issuecomment-2063374008) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💬 Commented on [#1939](https://github.com/ajnart/homarr/issues/1939#issuecomment-2063372513) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 💬 Commented on [#1947](https://github.com/ajnart/homarr/issues/1947#issuecomment-2063369403) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#1836](https://github.com/ajnart/homarr/issues/1836#issuecomment-2063393152) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#1788](https://github.com/ajnart/homarr/issues/1788#issuecomment-2063390451) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💬 Commented on [#1905](https://github.com/ajnart/homarr/issues/1905#issuecomment-2063383853) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ✔️ Closed issue [#1905](https://github.com/ajnart/homarr/issues/1905) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. 💬 Commented on [#1927](https://github.com/ajnart/homarr/issues/1927#issuecomment-2063381951) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 18th, 2024, 9:11:06 AM
+Last Updated: Thursday, April 18th, 2024, 9:36:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
