@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2025](https://github.com/ajnart/homarr/issues/2025#issuecomment-2072568534) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#2011](https://github.com/ajnart/homarr/pull/2011#discussion_r1577715232) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#2025](https://github.com/ajnart/homarr/issues/2025#issuecomment-2072568534) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. 👍 Approved [#2024](https://github.com/ajnart/homarr/pull/2024#pullrequestreview-2015210184) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 24th, 2024, 11:11:10 AM
+Last Updated: Wednesday, April 24th, 2024, 11:34:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
