@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. ⬆️ Pushed 3 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. 💪 Opened PR [#464](https://github.com/homarr-labs/homarr/pull/464) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. ⭐ Starred [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#462](https://github.com/homarr-labs/homarr/pull/462#discussion_r1596994253) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. 💬 Commented on [#462](https://github.com/homarr-labs/homarr/pull/462#discussion_r1596994884) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. 💬 Commented on [#462](https://github.com/homarr-labs/homarr/pull/462#discussion_r1596997266) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ⬆️ Pushed 3 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⬆️ Pushed 3 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 10th, 2024, 4:36:59 PM
+Last Updated: Friday, May 10th, 2024, 5:09:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
