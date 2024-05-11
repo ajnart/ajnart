@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#462](https://github.com/homarr-labs/homarr/pull/462#discussion_r1597152880) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. 💬 Commented on [#464](https://github.com/homarr-labs/homarr/pull/464#discussion_r1597070967) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ⭐ Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)<br>
-4. 💬 Commented on [#464](https://github.com/homarr-labs/homarr/pull/464#discussion_r1597063467) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💬 Commented on [#462](https://github.com/homarr-labs/homarr/pull/462#discussion_r1597152880) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. 💬 Commented on [#464](https://github.com/homarr-labs/homarr/pull/464#discussion_r1597070967) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⭐ Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 11th, 2024, 11:33:58 AM
+Last Updated: Saturday, May 11th, 2024, 12:18:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
