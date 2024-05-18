@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#515](https://github.com/homarr-labs/homarr/issues/515) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. ❗️ Opened issue [#514](https://github.com/homarr-labs/homarr/issues/514) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ❌ Closed PR [#40](https://github.com/homarr-labs/documentation/pull/40) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-4. 💬 Commented on [#40](https://github.com/homarr-labs/documentation/pull/40#issuecomment-2118450482) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-5. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+1. 💬 Commented on [#484](https://github.com/homarr-labs/homarr/pull/484#issuecomment-2118804428) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. ❗️ Opened issue [#515](https://github.com/homarr-labs/homarr/issues/515) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. ❗️ Opened issue [#514](https://github.com/homarr-labs/homarr/issues/514) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ❌ Closed PR [#40](https://github.com/homarr-labs/documentation/pull/40) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+5. 💬 Commented on [#40](https://github.com/homarr-labs/documentation/pull/40#issuecomment-2118450482) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 18th, 2024, 11:33:37 AM
+Last Updated: Saturday, May 18th, 2024, 12:18:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
