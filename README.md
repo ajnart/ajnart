@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#607](https://github.com/homarr-labs/homarr/pull/607) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. 💪 Opened PR [#606](https://github.com/homarr-labs/homarr/pull/606) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💪 Opened PR [#607](https://github.com/homarr-labs/homarr/pull/607) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. 💪 Opened PR [#606](https://github.com/homarr-labs/homarr/pull/606) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 2nd, 2024, 3:10:12 PM
+Last Updated: Sunday, June 2nd, 2024, 3:35:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
