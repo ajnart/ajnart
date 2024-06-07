@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. 💪 Opened PR [#607](https://github.com/homarr-labs/homarr/pull/607) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. 💪 Opened PR [#606](https://github.com/homarr-labs/homarr/pull/606) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. ❌ Closed PR [#2](https://github.com/beamcode/webdesign/pull/2) in [beamcode/webdesign](https://github.com/beamcode/webdesign)<br>
+2. ❌ Closed PR [#1](https://github.com/beamcode/webdesign/pull/1) in [beamcode/webdesign](https://github.com/beamcode/webdesign)<br>
+3. ❌ Closed PR [#3](https://github.com/Sleeq-EIP/app/pull/3) in [Sleeq-EIP/app](https://github.com/Sleeq-EIP/app)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 7th, 2024, 1:33:38 PM
+Last Updated: Friday, June 7th, 2024, 2:11:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
