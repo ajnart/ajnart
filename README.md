@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#94](https://github.com/homarr-labs/documentation/pull/94#issuecomment-2218377471) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#94](https://github.com/homarr-labs/documentation/pull/94#discussion_r1670987700) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+2. 🔴 Requested 1 change(s) for [#94](https://github.com/homarr-labs/documentation/pull/94#pullrequestreview-2167075539) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+3. 💬 Commented on [#94](https://github.com/homarr-labs/documentation/pull/94#issuecomment-2218377471) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 10th, 2024, 12:54:49 AM
+Last Updated: Wednesday, July 10th, 2024, 1:59:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
