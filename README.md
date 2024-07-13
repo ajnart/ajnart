@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2081](https://github.com/ajnart/homarr/issues/2081#issuecomment-2224622265) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ❗️ Opened issue [#792](https://github.com/homarr-labs/homarr/issues/792) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. ❗️ Opened issue [#791](https://github.com/homarr-labs/homarr/issues/791) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. ❗️ Opened issue [#790](https://github.com/homarr-labs/homarr/issues/790) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ✔️ Closed issue [#789](https://github.com/homarr-labs/homarr/issues/789) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ❗️ Opened issue [#789](https://github.com/homarr-labs/homarr/issues/789) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 13th, 2024, 2:34:12 AM
+Last Updated: Saturday, July 13th, 2024, 3:12:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
