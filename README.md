@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#792](https://github.com/homarr-labs/homarr/issues/792) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. ❗️ Opened issue [#791](https://github.com/homarr-labs/homarr/issues/791) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ❗️ Opened issue [#790](https://github.com/homarr-labs/homarr/issues/790) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. ✔️ Closed issue [#789](https://github.com/homarr-labs/homarr/issues/789) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. ❗️ Opened issue [#789](https://github.com/homarr-labs/homarr/issues/789) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+2. 🎉 Merged PR [#97](https://github.com/homarr-labs/documentation/pull/97) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+3. 💬 Commented on [#97](https://github.com/homarr-labs/documentation/pull/97#discussion_r1677196238) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+4. 👍 Approved [#97](https://github.com/homarr-labs/documentation/pull/97#pullrequestreview-2176708564) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+5. ❗️ Opened issue [#792](https://github.com/homarr-labs/homarr/issues/792) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 14th, 2024, 7:33:52 PM
+Last Updated: Sunday, July 14th, 2024, 8:11:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
