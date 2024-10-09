@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tokio-rs/console](https://github.com/tokio-rs/console)<br>
-2. ⬆️ Pushed 2 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/ajnart.github.io](https://github.com/ajnart/ajnart.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
+2. 💪 Opened PR [#40](https://github.com/kodu-ai/claude-coder/pull/40) in [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
+3. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)<br>
+4. ❗️ Opened issue [#36](https://github.com/kodu-ai/claude-coder/issues/36) in [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
+5. ⬆️ Pushed 2 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 1st, 2024, 9:34:23 AM
+Last Updated: Wednesday, October 9th, 2024, 3:43:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
