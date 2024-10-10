@@ -13,14 +13,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
+2. ⬆️ Pushed 2 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
+3. 🎉 Merged PR [#20](https://github.com/ajnart/subs/pull/20) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+4. ⬆️ Pushed 2 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
+5. 🎉 Merged PR [#18](https://github.com/ajnart/subs/pull/18) in [ajnart/subs](https://github.com/ajnart/subs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 10th, 2024, 3:43:43 AM
+Last Updated: Thursday, October 10th, 2024, 4:25:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
