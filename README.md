@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#11](https://github.com/ajnart/subs/issues/11#issuecomment-2406233434) in [ajnart/subs](https://github.com/ajnart/subs)<br>
-2. 💬 Commented on [#26](https://github.com/ajnart/subs/pull/26#issuecomment-2405519585) in [ajnart/subs](https://github.com/ajnart/subs)<br>
-3. 💬 Commented on [#24](https://github.com/ajnart/subs/issues/24#issuecomment-2404484457) in [ajnart/subs](https://github.com/ajnart/subs)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
+1. 💬 Commented on [#26](https://github.com/ajnart/subs/pull/26#issuecomment-2406602157) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+2. ❌ Closed PR [#26](https://github.com/ajnart/subs/pull/26) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+3. 💬 Commented on [#26](https://github.com/ajnart/subs/pull/26#issuecomment-2406601369) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+4. 💬 Commented on [#11](https://github.com/ajnart/subs/issues/11#issuecomment-2406233434) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+5. 💬 Commented on [#26](https://github.com/ajnart/subs/pull/26#issuecomment-2405519585) in [ajnart/subs](https://github.com/ajnart/subs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 11th, 2024, 1:42:11 PM
+Last Updated: Friday, October 11th, 2024, 2:20:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
