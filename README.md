@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#28](https://github.com/ajnart/subs/pull/28#issuecomment-2408575791) in [ajnart/subs](https://github.com/ajnart/subs)<br>
-2. ❗️ Opened issue [#27](https://github.com/ajnart/subs/issues/27) in [ajnart/subs](https://github.com/ajnart/subs)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed 8 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
+2. 💬 Commented on [#28](https://github.com/ajnart/subs/pull/28#issuecomment-2408575791) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+3. ❗️ Opened issue [#27](https://github.com/ajnart/subs/issues/27) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
+5. ⬆️ Pushed 2 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 13th, 2024, 3:29:21 AM
+Last Updated: Sunday, October 13th, 2024, 3:46:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
