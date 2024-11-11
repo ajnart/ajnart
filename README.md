@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. 💪 Opened PR [#1463](https://github.com/homarr-labs/homarr/pull/1463) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. 💪 Opened PR [#1462](https://github.com/homarr-labs/homarr/pull/1462) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ⬆️ Pushed 1 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 8:45:32 AM
+Last Updated: Monday, November 11th, 2024, 9:23:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
