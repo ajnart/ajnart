@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
-2. ⭐ Starred [nrwl/nx](https://github.com/nrwl/nx)<br>
-3. ❗️ Opened issue [#1](https://github.com/PhilipWee/trpc-vsc-ext-template/issues/1) in [PhilipWee/trpc-vsc-ext-template](https://github.com/PhilipWee/trpc-vsc-ext-template)<br>
-4. ⬆️ Pushed 1 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
-5. ⬆️ Pushed 0 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
+1. ⭐ Starred [icphats/party-verse-core](https://github.com/icphats/party-verse-core)<br>
+2. ⬆️ Pushed 5 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
+3. ⭐ Starred [nrwl/nx](https://github.com/nrwl/nx)<br>
+4. ❗️ Opened issue [#1](https://github.com/PhilipWee/trpc-vsc-ext-template/issues/1) in [PhilipWee/trpc-vsc-ext-template](https://github.com/PhilipWee/trpc-vsc-ext-template)<br>
+5. ⬆️ Pushed 1 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 4th, 2024, 4:30:17 PM
+Last Updated: Wednesday, December 4th, 2024, 5:20:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
