@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [icphats/party-verse-core](https://github.com/icphats/party-verse-core)<br>
-2. ⬆️ Pushed 5 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
-3. ⭐ Starred [nrwl/nx](https://github.com/nrwl/nx)<br>
-4. ❗️ Opened issue [#1](https://github.com/PhilipWee/trpc-vsc-ext-template/issues/1) in [PhilipWee/trpc-vsc-ext-template](https://github.com/PhilipWee/trpc-vsc-ext-template)<br>
-5. ⬆️ Pushed 1 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. ⭐ Starred [icphats/party-verse-core](https://github.com/icphats/party-verse-core)<br>
+5. ⬆️ Pushed 5 commit(s) to [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 6th, 2024, 7:39:59 AM
+Last Updated: Friday, December 6th, 2024, 8:29:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
