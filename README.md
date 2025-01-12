@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#882](https://github.com/homarr-labs/dashboard-icons/issues/882#issuecomment-2574218850) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#2249](https://github.com/ajnart/homarr/issues/2249#issuecomment-2585493045) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. 💬 Commented on [#2249](https://github.com/ajnart/homarr/issues/2249#issuecomment-2585488903) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💬 Commented on [#882](https://github.com/homarr-labs/dashboard-icons/issues/882#issuecomment-2574218850) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 12th, 2025, 3:33:24 AM
+Last Updated: Sunday, January 12th, 2025, 4:24:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
