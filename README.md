@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1087](https://github.com/ajnart/homarr/issues/1087#issuecomment-2628468515) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#1087](https://github.com/ajnart/homarr/issues/1087#issuecomment-2628458312) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-4. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed 1 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+2. 💪 Opened PR [#199](https://github.com/homarr-labs/documentation/pull/199) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+3. 💬 Commented on [#1087](https://github.com/ajnart/homarr/issues/1087#issuecomment-2628468515) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💬 Commented on [#1087](https://github.com/ajnart/homarr/issues/1087#issuecomment-2628458312) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 4th, 2025, 5:20:33 AM
+Last Updated: Tuesday, February 4th, 2025, 5:40:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
