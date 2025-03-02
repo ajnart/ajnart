@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [michidk/vscli](https://github.com/michidk/vscli)<br>
-2. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
-3. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br>
-4. ⭐ Starred [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen)<br>
-5. ⭐ Starred [tobychui/zoraxy](https://github.com/tobychui/zoraxy)<br>
+1. ⭐ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
+2. ⭐ Starred [michidk/vscli](https://github.com/michidk/vscli)<br>
+3. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
+4. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br>
+5. ⭐ Starred [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 2:39:31 PM
+Last Updated: Sunday, March 2nd, 2025, 3:20:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
