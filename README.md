@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)<br>
-2. 💬 Commented on [#547](https://github.com/magicuidesign/magicui/pull/547#issuecomment-2694310237) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
-3. ⭐ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
-4. ⭐ Starred [michidk/vscli](https://github.com/michidk/vscli)<br>
-5. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)<br>
+1. 💬 Commented on [#2617](https://github.com/homarr-labs/homarr/issues/2617#issuecomment-2734001451) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. ✔️ Closed issue [#2617](https://github.com/homarr-labs/homarr/issues/2617) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. ✔️ Closed issue [#2619](https://github.com/homarr-labs/homarr/issues/2619) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. 💬 Commented on [#2636](https://github.com/homarr-labs/homarr/issues/2636#issuecomment-2733987082) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 19th, 2025, 4:26:26 AM
+Last Updated: Wednesday, March 19th, 2025, 4:45:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
