@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2617](https://github.com/homarr-labs/homarr/issues/2617#issuecomment-2734001451) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. ✔️ Closed issue [#2617](https://github.com/homarr-labs/homarr/issues/2617) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ✔️ Closed issue [#2619](https://github.com/homarr-labs/homarr/issues/2619) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. 💬 Commented on [#2636](https://github.com/homarr-labs/homarr/issues/2636#issuecomment-2733987082) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)<br>
+1. ⭐ Starred [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)<br>
+2. ⭐ Starred [sst/sst](https://github.com/sst/sst)<br>
+3. 💬 Commented on [#2617](https://github.com/homarr-labs/homarr/issues/2617#issuecomment-2734001451) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ✔️ Closed issue [#2617](https://github.com/homarr-labs/homarr/issues/2617) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ✔️ Closed issue [#2619](https://github.com/homarr-labs/homarr/issues/2619) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 20th, 2025, 10:44:07 AM
+Last Updated: Thursday, March 20th, 2025, 11:18:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
