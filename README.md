@@ -13,14 +13,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. 💬 Commented on [#2686](https://github.com/homarr-labs/homarr/pull/2686#discussion_r2009261108) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ⬆️ Pushed 2 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. 💬 Commented on [#2686](https://github.com/homarr-labs/homarr/pull/2686#discussion_r2009256393) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. 💬 Commented on [#2683](https://github.com/homarr-labs/homarr/pull/2683#discussion_r2009823843) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. 🎉 Merged PR [#2684](https://github.com/homarr-labs/homarr/pull/2684) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 24th, 2025, 9:41:52 AM
+Last Updated: Monday, March 24th, 2025, 10:25:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
