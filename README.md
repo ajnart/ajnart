@@ -12,15 +12,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2700](https://github.com/homarr-labs/homarr/pull/2700) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. 💬 Commented on [#2665](https://github.com/homarr-labs/homarr/pull/2665#issuecomment-2755039615) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. 💬 Commented on [#2665](https://github.com/homarr-labs/homarr/pull/2665#issuecomment-2755605751) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. 💬 Commented on [#2700](https://github.com/homarr-labs/homarr/pull/2700#discussion_r2014904585) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 3. ⬆️ Pushed 1 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. 💬 Commented on [#2663](https://github.com/homarr-labs/homarr/pull/2663#discussion_r2014326090) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. ⬆️ Pushed 2 commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. 💪 Opened PR [#2700](https://github.com/homarr-labs/homarr/pull/2700) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. 💬 Commented on [#2665](https://github.com/homarr-labs/homarr/pull/2665#issuecomment-2755039615) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 26th, 2025, 11:39:36 PM
+Last Updated: Thursday, March 27th, 2025, 1:49:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Languages and Tools:</h3>
