@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>, I'm Thomas</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 🦞 I’m currently working on [Homarr](https://github.com/ajnart/homarr)
-
-- 🌱 I’m currently learning **NextJS/React and Tauri/Rust**
+- 🌱 Always learning some cool stuff 
 
 - 👨‍💻 My Linkedin [https://www.linkedin.com/in/thomas-camlong/](https://www.linkedin.com/in/thomas-camlong/)
 
