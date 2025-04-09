@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-2. ⬆️ Pushed 2 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-4. ⬆️ Pushed 42 commit(s) to [ajnart/subs](https://github.com/ajnart/subs)<br>
-5. 🎉 Merged PR [#34](https://github.com/ajnart/subs/pull/34) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+1. ✔️ Closed issue [#25](https://github.com/ajnart/subs/issues/25) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+2. ✔️ Closed issue [#30](https://github.com/ajnart/subs/issues/30) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+3. ✔️ Closed issue [#27](https://github.com/ajnart/subs/issues/27) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+4. ✔️ Closed issue [#24](https://github.com/ajnart/subs/issues/24) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+5. ✔️ Closed issue [#12](https://github.com/ajnart/subs/issues/12) in [ajnart/subs](https://github.com/ajnart/subs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 9th, 2025, 8:32:44 AM
+Last Updated: Wednesday, April 9th, 2025, 9:26:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
