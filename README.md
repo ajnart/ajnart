@@ -11,14 +11,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. 🎉 Merged PR [#1268](https://github.com/homarr-labs/dashboard-icons/pull/1268) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. 💬 Commented on [#26](https://github.com/ajnart/dcm/pull/26#issuecomment-2825645418) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/dcm](https://github.com/ajnart/dcm)<br>
-5. 🎉 Merged PR [#26](https://github.com/ajnart/dcm/pull/26) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
+2. 🎉 Merged PR [#1269](https://github.com/homarr-labs/dashboard-icons/pull/1269) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. 💪 Opened PR [#1269](https://github.com/homarr-labs/dashboard-icons/pull/1269) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. ⬆️ Pushed 2 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. 🎉 Merged PR [#1268](https://github.com/homarr-labs/dashboard-icons/pull/1268) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 24th, 2025, 8:43:39 PM
+Last Updated: Thursday, April 24th, 2025, 9:23:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
