@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. 🎉 Merged PR [#1270](https://github.com/homarr-labs/dashboard-icons/pull/1270) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. ⬆️ Pushed 1 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-4. ⬆️ Pushed 1 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-5. 💬 Commented on [#1270](https://github.com/homarr-labs/dashboard-icons/pull/1270#issuecomment-2830160081) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+1. 💬 Commented on [#1264](https://github.com/homarr-labs/dashboard-icons/pull/1264#discussion_r2060160575) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. 💬 Commented on [#1264](https://github.com/homarr-labs/dashboard-icons/pull/1264#discussion_r2060162358) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. 💬 Commented on [#1264](https://github.com/homarr-labs/dashboard-icons/pull/1264#discussion_r2058816978) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. 💬 Commented on [#1264](https://github.com/homarr-labs/dashboard-icons/pull/1264#discussion_r2060163574) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. 💬 Commented on [#1264](https://github.com/homarr-labs/dashboard-icons/pull/1264#discussion_r2058816780) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 25th, 2025, 4:50:05 PM
+Last Updated: Friday, April 25th, 2025, 5:20:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
