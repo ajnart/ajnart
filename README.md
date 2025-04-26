@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1284](https://github.com/homarr-labs/dashboard-icons/pull/1284#pullrequestreview-2796007897) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. 💪 Opened PR [#1282](https://github.com/homarr-labs/dashboard-icons/pull/1282) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. ⬆️ Pushed 0 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-4. ⬆️ Pushed 1 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-5. 💬 Commented on [#1261](https://github.com/homarr-labs/dashboard-icons/pull/1261#issuecomment-2830825800) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+1. 💬 Commented on [#1285](https://github.com/homarr-labs/dashboard-icons/pull/1285#discussion_r2061384152) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. 👍 Approved [#1284](https://github.com/homarr-labs/dashboard-icons/pull/1284#pullrequestreview-2796007897) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. 💪 Opened PR [#1282](https://github.com/homarr-labs/dashboard-icons/pull/1282) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. ⬆️ Pushed 0 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. ⬆️ Pushed 1 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 26th, 2025, 7:17:20 PM
+Last Updated: Saturday, April 26th, 2025, 7:38:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
