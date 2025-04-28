@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1323](https://github.com/homarr-labs/dashboard-icons/pull/1323) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. 💪 Opened PR [#78619](https://github.com/vercel/next.js/pull/78619) in [vercel/next.js](https://github.com/vercel/next.js)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/next.js](https://github.com/ajnart/next.js)<br>
-4. 🔱 Forked [ajnart/next.js](https://github.com/ajnart/next.js) from [vercel/next.js](https://github.com/vercel/next.js)<br>
-5. 💬 Commented on [#31011](https://github.com/PostHog/posthog/issues/31011#issuecomment-2833632205) in [PostHog/posthog](https://github.com/PostHog/posthog)<br>
+1. ⬆️ Pushed 3 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. 🎉 Merged PR [#1320](https://github.com/homarr-labs/dashboard-icons/pull/1320) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. 👍 Approved [#1320](https://github.com/homarr-labs/dashboard-icons/pull/1320#pullrequestreview-2799491526) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. 💪 Opened PR [#1324](https://github.com/homarr-labs/dashboard-icons/pull/1324) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. 💪 Opened PR [#1323](https://github.com/homarr-labs/dashboard-icons/pull/1323) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 28th, 2025, 3:43:20 PM
+Last Updated: Monday, April 28th, 2025, 4:28:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
