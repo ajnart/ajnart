@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2300](https://github.com/ajnart/homarr/issues/2300) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 💬 Commented on [#2300](https://github.com/ajnart/homarr/issues/2300#issuecomment-2848650090) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 0 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
-4. 🔱 Forked [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons) from [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-5. 💬 Commented on [#1342](https://github.com/homarr-labs/dashboard-icons/pull/1342#issuecomment-2838906151) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+1. 💬 Commented on [#1359](https://github.com/homarr-labs/dashboard-icons/pull/1359#issuecomment-2849186034) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. 💬 Commented on [#1359](https://github.com/homarr-labs/dashboard-icons/pull/1359#issuecomment-2849185788) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. ✔️ Closed issue [#2300](https://github.com/ajnart/homarr/issues/2300) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 💬 Commented on [#2300](https://github.com/ajnart/homarr/issues/2300#issuecomment-2848650090) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 0 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 4th, 2025, 11:38:44 AM
+Last Updated: Sunday, May 4th, 2025, 12:43:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
