@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
-2. ⬆️ Pushed 1 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. ⬆️ Pushed 1 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
-4. ⬆️ Pushed 2 commit(s) to [ajnart/dcm](https://github.com/ajnart/dcm)<br>
-5. 🎉 Merged PR [#13](https://github.com/ajnart/dcm/pull/13) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
+1. ⬆️ Pushed 1 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
+2. ⬆️ Pushed 2 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
+3. ⬆️ Pushed 1 commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. ⬆️ Pushed 1 commit(s) to [ajnart/dashboard-icons](https://github.com/ajnart/dashboard-icons)<br>
+5. ⬆️ Pushed 2 commit(s) to [ajnart/dcm](https://github.com/ajnart/dcm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 5th, 2025, 3:25:29 PM
+Last Updated: Monday, May 5th, 2025, 3:42:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
