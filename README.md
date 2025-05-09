@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#294](https://github.com/homarr-labs/documentation/pull/294#issuecomment-2864354635) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-2. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-3. 🎉 Merged PR [#294](https://github.com/homarr-labs/documentation/pull/294) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-4. ⬆️ Pushed 0 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
-5. ⬆️ Pushed 1 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+1. 💪 Opened PR [#1410](https://github.com/homarr-labs/dashboard-icons/pull/1410) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. ❌ Closed PR [#1359](https://github.com/homarr-labs/dashboard-icons/pull/1359) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. 💬 Commented on [#294](https://github.com/homarr-labs/documentation/pull/294#issuecomment-2864354635) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+4. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+5. 🎉 Merged PR [#294](https://github.com/homarr-labs/documentation/pull/294) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 9th, 2025, 1:32:26 PM
+Last Updated: Friday, May 9th, 2025, 2:22:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
