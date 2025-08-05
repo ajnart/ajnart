@@ -10,14 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2320](https://github.com/ajnart/homarr/pull/2320#issuecomment-3146537332) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. 👍 Approved [#2320](https://github.com/ajnart/homarr/pull/2320#pullrequestreview-3081056996) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⭐ Starred [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack)<br>
-4. ⭐ Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)<br>
+1. ❌ Closed PR [#2193](https://github.com/ajnart/homarr/pull/2193) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+2. ❌ Closed PR [#2094](https://github.com/ajnart/homarr/pull/2094) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+3. 💬 Commented on [#2320](https://github.com/ajnart/homarr/pull/2320#issuecomment-3146537332) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+4. 👍 Approved [#2320](https://github.com/ajnart/homarr/pull/2320#pullrequestreview-3081056996) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⭐ Starred [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 5th, 2025, 5:34:28 AM
+Last Updated: Tuesday, August 5th, 2025, 6:41:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
