@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2326](https://github.com/ajnart/homarr/pull/2326) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. ⬆️ Pushed 1 commit(s) to [HABS-BRAIN/assets](https://github.com/HABS-BRAIN/assets)<br>
-4. ⬆️ Pushed 1 commit(s) to [HABS-BRAIN/assets](https://github.com/HABS-BRAIN/assets)<br>
-5. ⬆️ Pushed 1 commit(s) to [HABS-BRAIN/assets](https://github.com/HABS-BRAIN/assets)<br>
+1. ⬆️ Pushed 2 commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+2. 🎉 Merged PR [#385](https://github.com/homarr-labs/documentation/pull/385) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+3. 💪 Opened PR [#385](https://github.com/homarr-labs/documentation/pull/385) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+4. 💪 Opened PR [#2326](https://github.com/ajnart/homarr/pull/2326) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+5. ⬆️ Pushed 1 commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 1st, 2025, 9:38:59 PM
+Last Updated: Monday, September 1st, 2025, 10:21:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
