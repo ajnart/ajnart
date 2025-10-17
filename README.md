@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)<br>
-2. 💬 Commented on [#45](https://github.com/ajnart/subs/pull/45#issuecomment-3406790771) in [ajnart/subs](https://github.com/ajnart/subs)<br>
-3. ❌ Closed PR [#2686](undefined) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-5. ❌ Closed PR [#2328](undefined) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. 💬 Commented on [#45](https://github.com/ajnart/subs/pull/45#issuecomment-3414474818) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+2. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)<br>
+3. 💬 Commented on [#45](https://github.com/ajnart/subs/pull/45#issuecomment-3406790771) in [ajnart/subs](https://github.com/ajnart/subs)<br>
+4. ❌ Closed PR [#2686](undefined) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 17th, 2025, 8:32:11 AM
+Last Updated: Friday, October 17th, 2025, 9:25:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
