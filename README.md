@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4602](https://github.com/homarr-labs/homarr/pull/4602#issuecomment-3621869280) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. 👍 Approved [#4441](https://github.com/homarr-labs/homarr/pull/4441#pullrequestreview-3549169539) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-4. ⭐ Starred [unjs/unstorage](https://github.com/unjs/unstorage)<br>
-5. ⭐ Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)<br>
+1. ❗️ Opened issue [#1](https://github.com/jniac/three-xp/issues/1) in [jniac/three-xp](https://github.com/jniac/three-xp)<br>
+2. 💬 Commented on [#4602](https://github.com/homarr-labs/homarr/pull/4602#issuecomment-3621869280) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. 👍 Approved [#4441](https://github.com/homarr-labs/homarr/pull/4441#pullrequestreview-3549169539) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+4. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. ⭐ Starred [unjs/unstorage](https://github.com/unjs/unstorage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 10th, 2025, 2:28:53 PM
+Last Updated: Wednesday, December 10th, 2025, 2:52:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
