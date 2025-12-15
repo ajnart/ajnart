@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2372](https://github.com/homarr-labs/dashboard-icons/issues/2372#issuecomment-3645734688) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. ✔️ Closed issue [#2384](https://github.com/homarr-labs/dashboard-icons/issues/2384) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. ✔️ Closed issue [#2455](https://github.com/homarr-labs/dashboard-icons/issues/2455) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-4. ❌ Closed PR [#2640](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-5. ❌ Closed PR [#2637](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+1. ❌ Closed PR [#2675](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. ❌ Closed PR [#2674](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. ❌ Closed PR [#2672](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. ❌ Closed PR [#2668](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. ❌ Closed PR [#2665](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 15th, 2025, 1:47:48 PM
+Last Updated: Monday, December 15th, 2025, 2:31:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
