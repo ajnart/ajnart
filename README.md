@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+1. ⭐ Starred [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)<br>
 2. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. 💪 Opened PR [#2800](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-4. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-5. ❌ Closed PR [#2799](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. 💪 Opened PR [#2800](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 13th, 2026, 12:59:59 PM
+Last Updated: Tuesday, January 13th, 2026, 1:48:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
