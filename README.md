@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-2. ⬆️ Pushed undefined commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
-3. 💪 Opened PR [#2329](undefined) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
+1. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+2. 💪 Opened PR [#2803](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. ✔️ Closed issue [#2330](https://github.com/ajnart/homarr/issues/2330) in [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 4. ⬆️ Pushed undefined commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 5. ⬆️ Pushed undefined commit(s) to [ajnart/homarr](https://github.com/ajnart/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 16th, 2026, 3:30:09 PM
+Last Updated: Friday, January 16th, 2026, 4:36:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
