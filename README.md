@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [changesets/changesets](https://github.com/changesets/changesets)<br>
-2. ⭐ Starred [railwayapp/railpack](https://github.com/railwayapp/railpack)<br>
-3. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-4. ⭐ Starred [lochie/web-haptics](https://github.com/lochie/web-haptics)<br>
-5. ⭐ Starred [icflorescu/mantine-datatable](https://github.com/icflorescu/mantine-datatable)<br>
+1. 💬 Commented on [#5138](https://github.com/homarr-labs/homarr/pull/5138#issuecomment-4053684985) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. ⭐ Starred [changesets/changesets](https://github.com/changesets/changesets)<br>
+3. ⭐ Starred [railwayapp/railpack](https://github.com/railwayapp/railpack)<br>
+4. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+5. ⭐ Starred [lochie/web-haptics](https://github.com/lochie/web-haptics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 13th, 2026, 8:01:22 AM
+Last Updated: Friday, March 13th, 2026, 9:07:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
