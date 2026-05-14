@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5607](https://github.com/homarr-labs/homarr/pull/5607#discussion_r3242124015) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-2. 👍 Approved [#5693](https://github.com/homarr-labs/homarr/pull/5693#pullrequestreview-4291005961) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+2. 💬 Commented on [#5607](https://github.com/homarr-labs/homarr/pull/5607#discussion_r3242124015) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+3. 👍 Approved [#5693](https://github.com/homarr-labs/homarr/pull/5693#pullrequestreview-4291005961) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 4. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. 💬 Commented on [#5607](https://github.com/homarr-labs/homarr/pull/5607#discussion_r3242149873) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 3:26:51 PM
+Last Updated: Thursday, May 14th, 2026, 5:20:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
