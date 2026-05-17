@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-2. 💪 Opened PR [#2861](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-3. 💬 Commented on [#2814](https://github.com/homarr-labs/dashboard-icons/issues/2814#issuecomment-4467085603) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
-4. ✔️ Closed issue [#76](https://github.com/ajnart/dcm/issues/76) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
-5. ✔️ Closed issue [#75](https://github.com/ajnart/dcm/issues/75) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
+1. 💬 Commented on [#65](https://github.com/ajnart/dcm/issues/65#issuecomment-4469630681) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
+2. ⬆️ Pushed undefined commit(s) to [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+3. 💪 Opened PR [#2861](undefined) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+4. 💬 Commented on [#2814](https://github.com/homarr-labs/dashboard-icons/issues/2814#issuecomment-4467085603) in [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)<br>
+5. ✔️ Closed issue [#76](https://github.com/ajnart/dcm/issues/76) in [ajnart/dcm](https://github.com/ajnart/dcm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 17th, 2026, 5:29:55 AM
+Last Updated: Sunday, May 17th, 2026, 7:57:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
