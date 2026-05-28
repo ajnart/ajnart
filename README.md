@@ -10,15 +10,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+1. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 2. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
 3. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-4. ⬆️ Pushed undefined commit(s) to [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-5. 💪 Opened PR [#552](undefined) in [homarr-labs/documentation](https://github.com/homarr-labs/documentation)<br>
+4. ✔️ Closed issue [#5744](https://github.com/homarr-labs/homarr/issues/5744) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⬆️ Pushed undefined commit(s) to [VIVAAN-DHAWAN/homarr](https://github.com/VIVAAN-DHAWAN/homarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 28th, 2026, 4:51:00 AM
+Last Updated: Thursday, May 28th, 2026, 8:47:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ajnart"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br><br>
